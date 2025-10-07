@@ -1,0 +1,194 @@
+[
+  {
+    "id": "prod_001",
+    "name": "Fresh Tomatoes",
+    "description": "Organic red tomatoes, perfect for salads and cooking. Rich in vitamins and antioxidants.",
+    "price": 250,
+    "category": "Vegetables", 
+    "imageUrl": "assets/images/tomatoes.jpg",
+    "inStock": true,
+    "rating": 4.5,
+    "unit": "per kg",
+    "nutritionalInfo": {
+      "calories": "18 per 100g",
+      "vitamin_c": "28mg",
+      "fiber": "1.2g"
+    }
+  },
+  {
+    "id": "prod_002",
+    "name": "Green Beans",
+    "description": "Crisp and fresh green beans, great for stir-fries and steaming. Locally sourced.",
+    "price": 180,
+    "category": "Vegetables",
+    "imageUrl": "assets/images/beans.jpg", 
+    "inStock": true,
+    "rating": 4.2,
+    "unit": "per kg",
+    "nutritionalInfo": {
+      "calories": "31 per 100g",
+      "vitamin_k": "14.4mcg",
+      "fiber": "2.7g"
+    }
+  },
+  {
+    "id": "prod_003",
+    "name": "Ripe Mangoes",
+    "description": "Sweet and juicy tropical mangoes. Perfect for smoothies, desserts, or eating fresh.",
+    "price": 350,
+    "category": "Fruits",
+    "imageUrl": "assets/images/mangoes.jpg",
+    "inStock": true,
+    "rating": 4.8,
+    "unit": "per kg",
+    "nutritionalInfo": {
+      "calories": "60 per 100g",
+      "vitamin_a": "54mcg",
+      "vitamin_c": "36.4mg"
+    }
+  },
+  {
+    "id": "prod_004",
+    "name": "Fresh Bananas", 
+    "description": "Yellow ripe bananas, rich in potassium and natural sugars. Great for energy.",
+    "price": 150,
+    "category": "Fruits",
+    "imageUrl": "assets/images/bananas.jpg",
+    "inStock": true,
+    "rating": 4.6,
+    "unit": "per dozen",
+    "nutritionalInfo": {
+      "calories": "89 per 100g",
+      "potassium": "358mg",
+      "vitamin_b6": "0.4mg"
+    }
+  },
+  {
+    "id": "prod_005",
+    "name": "Farm Fresh Butter",
+    "description": "Creamy salted butter from local farms. Perfect for cooking, baking, and spreading.",
+    "price": 450,
+    "category": "Dairy",
+    "imageUrl": "assets/images/butter.jpg",
+    "inStock": true,
+    "rating": 4.4,
+    "unit": "500g pack",
+    "nutritionalInfo": {
+      "calories": "717 per 100g",
+      "fat": "81g",
+      "vitamin_a": "684mcg"
+    }
+  },
+  {
+    "id": "prod_006",
+    "name": "Homestyle Curd",
+    "description": "Thick and creamy homemade-style curd. Rich in probiotics and perfect with meals.",
+    "price": 120,
+    "category": "Dairy",
+    "imageUrl": "assets/images/curd.jpg",
+    "inStock": true,
+    "rating": 4.3,
+    "unit": "500ml",
+    "nutritionalInfo": {
+      "calories": "98 per 100g",
+      "protein": "11g",
+      "calcium": "121mg"
+    }
+  },
+  {
+    "id": "prod_007",
+    "name": "Premium Beef",
+    "description": "Fresh, high-quality beef cuts. Perfect for grilling, roasting, or making curries.",
+    "price": 850,
+    "category": "Meat",
+    "imageUrl": "assets/images/beef.jpg",
+    "inStock": true,
+    "rating": 4.7,
+    "unit": "per kg",
+    "nutritionalInfo": {
+      "calories": "250 per 100g",
+      "protein": "26g",
+      "iron": "2.6mg"
+    }
+  },
+  {
+    "id": "prod_008",
+    "name": "Fresh Pork",
+    "description": "Tender pork slices from local farms. Great for stir-fries and traditional dishes.",
+    "price": 720,
+    "category": "Meat",
+    "imageUrl": "assets/images/pork.jpg",
+    "inStock": true,
+    "rating": 4.1,
+    "unit": "per kg",
+    "nutritionalInfo": {
+      "calories": "242 per 100g",
+      "protein": "27g",
+      "thiamine": "0.9mg"
+    }
+  },
+  {
+    "id": "prod_009",
+    "name": "Red Lentils (Dhal)",
+    "description": "High-protein red lentils, perfect for making traditional dal and curries.",
+    "price": 200,
+    "category": "Grains",
+    "imageUrl": "assets/images/dhal.jpg",
+    "inStock": true,
+    "rating": 4.5,
+    "unit": "per kg",
+    "nutritionalInfo": {
+      "calories": "353 per 100g",
+      "protein": "25g",
+      "fiber": "11g"
+    }
+  },
+  {
+    "id": "prod_010",
+    "name": "Green Gram (Mung Beans)",
+    "description": "Nutritious green gram, excellent source of plant protein. Great for sprouts and curries.",
+    "price": 280,
+    "category": "Grains",
+    "imageUrl": "assets/images/green_gram.jpg",
+    "inStock": true,
+    "rating": 4.4,
+    "unit": "per kg",
+    "nutritionalInfo": {
+      "calories": "347 per 100g",
+      "protein": "24g",
+      "folate": "625mcg"
+    }
+  },
+  {
+    "id": "prod_011",
+    "name": "Whole Wheat Bread",
+    "description": "Freshly baked soft whole wheat bread. Perfect for sandwiches and breakfast.",
+    "price": 80,
+    "category": "Bakery",
+    "imageUrl": "assets/images/bread.jpg",
+    "inStock": true,
+    "rating": 4.2,
+    "unit": "per loaf",
+    "nutritionalInfo": {
+      "calories": "247 per 100g", 
+      "protein": "13g",
+      "fiber": "7g"
+    }
+  },
+  {
+    "id": "prod_012",
+    "name": "Croissants",
+    "description": "Buttery, flaky croissants baked fresh daily. Perfect for breakfast or afternoon snack.",
+    "price": 45,
+    "category": "Bakery",
+    "imageUrl": "assets/images/bakery.jpg",
+    "inStock": true,
+    "rating": 4.6,
+    "unit": "per piece",
+    "nutritionalInfo": {
+      "calories": "406 per 100g",
+      "fat": "21g",
+      "carbs": "45g"
+    }
+  }
+]

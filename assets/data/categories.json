@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "name": "Vegetables",
+    "description": "Fresh vegetables grown locally",
+    "imageUrl": "assets/images/vegetables.webp",
+    "color": "#4CAF50",
+    "isFeatured": true
+  },
+  {
+    "id": 2,
+    "name": "Fruits",
+    "description": "Sweet and juicy tropical fruits",
+    "imageUrl": "assets/images/fruit.jpeg",
+    "color": "#FF9800",
+    "isFeatured": true
+  },
+  {
+    "id": 3,
+    "name": "Dairy",
+    "description": "Fresh dairy products from local farms",
+    "imageUrl": "assets/images/dairy.jpeg",
+    "color": "#2196F3",
+    "isFeatured": true
+  },
+  {
+    "id": 4,
+    "name": "Grains",
+    "description": "High-quality rice and legumes",
+    "imageUrl": "assets/images/grains.jpeg",
+    "color": "#795548",
+    "isFeatured": true
+  },
+  {
+    "id": 5,
+    "name": "Meat",
+    "description": "Premium quality meat",
+    "imageUrl": "assets/images/meat.webp",
+    "color": "#F44336",
+    "isFeatured": true
+  }
+]

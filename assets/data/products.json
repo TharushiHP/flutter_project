@@ -1,0 +1,354 @@
+[
+  {
+    "id": "prod_001",
+    "name": "Tomatoes",
+    "description": "Organic red tomatoes, perfect for salads and cooking. Rich in vitamins and antioxidants.",
+    "price": 250,
+    "category": "Vegetables", 
+    "imageUrl": "assets/images/tomatoes.jpg",
+    "inStock": true,
+    "rating": 4.5,
+    "unit": "per kg",
+    "nutritionalInfo": {
+      "calories": "18 per 100g",
+      "vitamin_c": "28mg",
+      "fiber": "1.2g"
+    }
+  },
+  {
+    "id": "prod_002",
+    "name": "Beans",
+    "description": "Crisp and fresh green beans, great for stir-fries and steaming. Locally sourced.",
+    "price": 180,
+    "category": "Vegetables",
+    "imageUrl": "assets/images/beans.jpg", 
+    "inStock": true,
+    "rating": 4.2,
+    "unit": "per kg",
+    "nutritionalInfo": {
+      "calories": "31 per 100g",
+      "vitamin_k": "14.4mcg",
+      "fiber": "2.7g"
+    }
+  },
+  {
+    "id": "prod_003",
+    "name": "Mangoes",
+    "description": "Sweet and juicy tropical mangoes. Perfect for smoothies, desserts, or eating fresh.",
+    "price": 350,
+    "category": "Fruits",
+    "imageUrl": "assets/images/mangoes.jpg",
+    "inStock": true,
+    "rating": 4.8,
+    "unit": "per kg",
+    "nutritionalInfo": {
+      "calories": "60 per 100g",
+      "vitamin_a": "54mcg",
+      "vitamin_c": "36.4mg"
+    }
+  },
+  {
+    "id": "prod_004",
+    "name": "Bananas",
+    "description": "Sweet, ripe bananas packed with potassium. Great for breakfast, smoothies, and snacking.",
+    "price": 120,
+    "category": "Fruits",
+    "imageUrl": "assets/images/bananas.jpg",
+    "inStock": true,
+    "rating": 4.6,
+    "unit": "per kg",
+    "nutritionalInfo": {
+      "calories": "89 per 100g",
+      "potassium": "358mg",
+      "vitamin_b6": "0.4mg"
+    }
+  },
+  {
+    "id": "prod_005",
+    "name": "Butter",
+    "description": "Creamy, rich butter made from fresh cream. Perfect for cooking and baking.",
+    "price": 450,
+    "category": "Dairy",
+    "imageUrl": "assets/images/butter.jpg",
+    "inStock": true,
+    "rating": 4.4,
+    "unit": "per 500g",
+    "nutritionalInfo": {
+      "calories": "717 per 100g",
+      "fat": "81g",
+      "vitamin_a": "684mcg"
+    }
+  },
+  {
+    "id": "prod_006",
+    "name": "Curd",
+    "description": "Smooth, creamy curd made from fresh milk. Rich in probiotics and protein.",
+    "price": 80,
+    "category": "Dairy",
+    "imageUrl": "assets/images/curd.jpg",
+    "inStock": true,
+    "rating": 4.3,
+    "unit": "per 200g",
+    "nutritionalInfo": {
+      "calories": "61 per 100g",
+      "protein": "3.5g",
+      "calcium": "121mg"
+    }
+  },
+  {
+    "id": "prod_007",
+    "name": "Beef",
+    "description": "High-quality beef cuts perfect for grilling and roasting. Fresh and tender.",
+    "price": 1200,
+    "category": "Meat",
+    "imageUrl": "assets/images/beef.jpg",
+    "inStock": true,
+    "rating": 4.7,
+    "unit": "per kg",
+    "nutritionalInfo": {
+      "calories": "250 per 100g",
+      "protein": "26g",
+      "iron": "2.6mg"
+    }
+  },
+  {
+    "id": "prod_008",
+    "name": "Pork",
+    "description": "Tender pork cuts ideal for various cooking methods. Fresh and flavorful.",
+    "price": 950,
+    "category": "Meat",
+    "imageUrl": "assets/images/pork.jpg",
+    "inStock": true,
+    "rating": 4.5,
+    "unit": "per kg",
+    "nutritionalInfo": {
+      "calories": "242 per 100g",
+      "protein": "27.3g",
+      "vitamin_b1": "0.66mg"
+    }
+  },
+  {
+    "id": "prod_009",
+    "name": "Dhal",
+    "description": "Premium quality yellow lentils, perfect for traditional dhal curry. Rich in protein.",
+    "price": 160,
+    "category": "Grains",
+    "imageUrl": "assets/images/dhal.jpg",
+    "inStock": true,
+    "rating": 4.6,
+    "unit": "per kg",
+    "nutritionalInfo": {
+      "calories": "353 per 100g",
+      "protein": "25.8g",
+      "fiber": "10.7g"
+    }
+  },
+  {
+    "id": "prod_010",
+    "name": "Green Gram",
+    "description": "Nutritious green gram (mung beans) for curries and sprouting. High in protein and fiber.",
+    "price": 220,
+    "category": "Grains",
+    "imageUrl": "assets/images/green_gram.jpg",
+    "inStock": true,
+    "rating": 4.4,
+    "unit": "per kg",
+    "nutritionalInfo": {
+      "calories": "347 per 100g",
+      "protein": "24g",
+      "folate": "625mcg"
+    }
+  },
+  {
+    "id": "prod_011",
+    "name": "Bread",
+    "description": "Soft, freshly baked bread made with premium ingredients. Perfect for sandwiches.",
+    "price": 45,
+    "category": "Bakery",
+    "imageUrl": "assets/images/bread.jpg",
+    "inStock": true,
+    "rating": 4.2,
+    "unit": "per loaf",
+    "nutritionalInfo": {
+      "calories": "265 per 100g",
+      "carbs": "49g",
+      "protein": "9g"
+    }
+  },
+  {
+    "id": "prod_012",
+    "name": "Croissants",
+    "description": "Flaky, buttery croissants baked fresh daily. Perfect for breakfast or snacking.",
+    "price": 35,
+    "category": "Bakery",
+    "imageUrl": "assets/images/bakery.jpg",
+    "inStock": true,
+    "rating": 4.7,
+    "unit": "per piece",
+    "nutritionalInfo": {
+      "calories": "406 per 100g",
+      "fat": "21g",
+      "carbs": "45.8g"
+    }
+  },
+  {
+    "id": "prod_013",
+    "name": "Brinjals",
+    "description": "Purple eggplants perfect for curries and grilling. Low in calories, high in fiber.",
+    "price": 120,
+    "category": "Vegetables",
+    "imageUrl": "assets/images/brinjals.jpg",
+    "inStock": true,
+    "rating": 4.1,
+    "unit": "per kg",
+    "nutritionalInfo": {
+      "calories": "25 per 100g",
+      "fiber": "3g",
+      "potassium": "229mg"
+    }
+  },
+  {
+    "id": "prod_014",
+    "name": "Carrots",
+    "description": "Crisp, sweet carrots rich in beta-carotene. Perfect for salads and cooking.",
+    "price": 80,
+    "category": "Vegetables",
+    "imageUrl": "assets/images/carrots.jpg",
+    "inStock": true,
+    "rating": 4.4,
+    "unit": "per kg",
+    "nutritionalInfo": {
+      "calories": "41 per 100g",
+      "vitamin_a": "835mcg",
+      "fiber": "2.8g"
+    }
+  },
+  {
+    "id": "prod_015",
+    "name": "Leeks",
+    "description": "Mild-flavored leeks perfect for soups and stir-fries. Rich in vitamins K and C.",
+    "price": 200,
+    "category": "Vegetables",
+    "imageUrl": "assets/images/leeks.jpg",
+    "inStock": true,
+    "rating": 4.0,
+    "unit": "per kg",
+    "nutritionalInfo": {
+      "calories": "61 per 100g",
+      "vitamin_k": "47mcg",
+      "folate": "64mcg"
+    }
+  },
+  {
+    "id": "prod_016",
+    "name": "Papaya",
+    "description": "Tropical papaya with sweet, orange flesh. Rich in vitamin C and digestive enzymes.",
+    "price": 150,
+    "category": "Fruits",
+    "imageUrl": "assets/images/papaya.jpg",
+    "inStock": true,
+    "rating": 4.5,
+    "unit": "per kg",
+    "nutritionalInfo": {
+      "calories": "43 per 100g",
+      "vitamin_c": "60.9mg",
+      "vitamin_a": "47mcg"
+    }
+  },
+  {
+    "id": "prod_017",
+    "name": "Pineapple",
+    "description": "Juicy, sweet pineapple packed with vitamin C. Perfect for snacking and smoothies.",
+    "price": 280,
+    "category": "Fruits",
+    "imageUrl": "assets/images/pineapple.jpg",
+    "inStock": true,
+    "rating": 4.7,
+    "unit": "per piece",
+    "nutritionalInfo": {
+      "calories": "50 per 100g",
+      "vitamin_c": "47.8mg",
+      "manganese": "0.927mg"
+    }
+  },
+  {
+    "id": "prod_018",
+    "name": "Nadu Rice",
+    "description": "Premium Nadu rice variety with excellent texture and aroma. Perfect for traditional meals.",
+    "price": 140,
+    "category": "Grains",
+    "imageUrl": "assets/images/nadu_rice.jpg",
+    "inStock": true,
+    "rating": 4.6,
+    "unit": "per kg",
+    "nutritionalInfo": {
+      "calories": "365 per 100g",
+      "carbs": "80g",
+      "protein": "7.1g"
+    }
+  },
+  {
+    "id": "prod_019",
+    "name": "Samba Rice",
+    "description": "Traditional Samba rice with rich flavor and nutritional value. Ideal for daily meals.",
+    "price": 180,
+    "category": "Grains",
+    "imageUrl": "assets/images/samba_rice.jpg",
+    "inStock": true,
+    "rating": 4.5,
+    "unit": "per kg",
+    "nutritionalInfo": {
+      "calories": "355 per 100g",
+      "protein": "7.5g",
+      "fiber": "2.1g"
+    }
+  },
+  {
+    "id": "prod_020",
+    "name": "Anchor Milk",
+    "description": "Fresh, creamy milk from premium dairy farms. Rich in calcium and protein.",
+    "price": 85,
+    "category": "Dairy",
+    "imageUrl": "assets/images/anchor_milk.jpg",
+    "inStock": true,
+    "rating": 4.6,
+    "unit": "per 1L",
+    "nutritionalInfo": {
+      "calories": "61 per 100ml",
+      "protein": "3.2g",
+      "calcium": "113mg"
+    }
+  },
+  {
+    "id": "prod_021",
+    "name": "Cheese",
+    "description": "High-quality cheese perfect for sandwiches and cooking. Rich in protein and calcium.",
+    "price": 380,
+    "category": "Dairy",
+    "imageUrl": "assets/images/cheese.jpg",
+    "inStock": true,
+    "rating": 4.8,
+    "unit": "per 200g",
+    "nutritionalInfo": {
+      "calories": "113 per 100g",
+      "protein": "7g",
+      "calcium": "184mg"
+    }
+  },
+  {
+    "id": "prod_022",
+    "name": "Meat Selection",
+    "description": "Premium quality fresh meat cuts ideal for various cooking methods. High in protein.",
+    "price": 1100,
+    "category": "Meat",
+    "imageUrl": "assets/images/meat.webp",
+    "inStock": true,
+    "rating": 4.6,
+    "unit": "per kg",
+    "nutritionalInfo": {
+      "calories": "235 per 100g",
+      "protein": "25g",
+      "iron": "2.1mg"
+    }
+  }
+]
